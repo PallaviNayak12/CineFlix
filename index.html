@@ -1,0 +1,172 @@
+<html>
+
+<head>
+    <title>Movies</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        .hero {}
+
+        .images {}
+
+        .hero img {
+            width: 100%;
+            height: 90vh;
+            object-fit: cover;
+            object-position: top;
+        }
+
+        body {
+            background-color: #0c0c0c;
+            color: #fff;
+        }
+
+        ul {
+            display: flex;
+            gap: 20px;
+        }
+
+        .header {
+            display: flex;
+            gap: 20px;
+            background-color: #070707;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        li a {
+            text-decoration: none;
+            font-size: 20px;
+            color: white;
+        }
+
+        li {
+            padding: 10px;
+        }
+
+        li:hover {
+            background-color: #ca4101;
+        }
+
+        .header h3 {
+            color: #fff;
+        }
+
+        /* movies  */
+        .movies {
+            padding: 3%;
+        }
+
+        iframe {
+            background-color: #ccc;
+            border-radius: 10px;
+            border: none;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="header">
+        <h3>Movies</h3>
+
+        <ul type="none">
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About us</a></li>
+            <li><a href="#">Contact us</a></li>
+            <li><a href="#">Latest Movies</a></li>
+            <li><a href="#">Coding Movies</a></li>
+        </ul>
+    </div>
+    
+    <div class="hero">
+        <img src="https://qqcdnpictest.mxplay.com/pic/d2eaa32b01802f6cfaf31f85628dbb6c/en/16x9/1600x900/test_pic1742296115451.webp"
+            alt="">
+
+    </div>
+
+
+    <div class="movies">
+        <h1>Latest Movies</h1>
+        <hr>
+        <marquee behavior="scroll" direction="left" scrollamount="30">
+            <div class="images">
+                <img src="https://qqcdnpictest.mxplay.com/pic/67f83bc812b652bb475b7c8b358582f7/en/2x3/208x312/5cd29c172033d38a77e73e213d08b9c4_1280x1920.webp"
+                    alt="" width="250">
+                <img src="https://qqcdnpictest.mxplay.com/pic/f7675bb53b13bc07c1780a66c1103d54/en/2x3/208x312/test_pic1575975047775.webp"
+                    alt="" width="250">
+                <img src="https://qqcdnpictest.mxplay.com/pic/18c95c8dd13cd0c43aec40e619282107/en/2x3/208x312/test_pic1633686180700.webp"
+                    alt="" width="250">
+                <img src="https://qqcdnpictest.mxplay.com/pic/dba628bcf4e61975d7ed406847375783/en/2x3/208x312/dfa2a68cd1fc8c23568300d7dc5e4002_1280x1920.webp"
+                    alt="" width="250">
+                <img src="https://qqcdnpictest.mxplay.com/pic/2b1585e87da1e8deac286a0efe9ec9aa/en/2x3/208x312/2bce71b39a23cb676e24321d91298f2b_1280x1920.webp"
+                    alt="" width="250">
+                <img src="https://qqcdnpictest.mxplay.com/pic/2b1585e87da1e8deac286a0efe9ec9aa/en/2x3/208x312/2bce71b39a23cb676e24321d91298f2b_1280x1920.webp"
+                    alt="" width="250">
+            </div>
+        </marquee>
+        <br>
+        <br>
+        <h1>Trending Movies</h1>
+        <hr>
+        <marquee behavior="scroll" direction="left" scrollamount="30">
+            <div class="videos">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/NWnBxQjssvQ?si=LCJzVrrfhGF5fi4L"
+                    title="YouTube video player"></iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/NWnBxQjssvQ?si=LCJzVrrfhGF5fi4L"
+                    title="YouTube video player"></iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/NWnBxQjssvQ?si=LCJzVrrfhGF5fi4L"
+                    title="YouTube video player"></iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/NWnBxQjssvQ?si=LCJzVrrfhGF5fi4L"
+                    title="YouTube video player"></iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/NWnBxQjssvQ?si=LCJzVrrfhGF5fi4L"
+                    title="YouTube video player"></iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/NWnBxQjssvQ?si=LCJzVrrfhGF5fi4L"
+                    title="YouTube video player"></iframe>
+            </div>
+        </marquee>
+        <br><br>
+        <h1>Watch List</h1>
+        <hr>
+        <div class="images">
+            <img src="https://qqcdnpictest.mxplay.com/pic/67f83bc812b652bb475b7c8b358582f7/en/2x3/208x312/5cd29c172033d38a77e73e213d08b9c4_1280x1920.webp"
+                alt="" width="250">
+            <img src="https://qqcdnpictest.mxplay.com/pic/f7675bb53b13bc07c1780a66c1103d54/en/2x3/208x312/test_pic1575975047775.webp"
+                alt="" width="250">
+            <img src="https://qqcdnpictest.mxplay.com/pic/18c95c8dd13cd0c43aec40e619282107/en/2x3/208x312/test_pic1633686180700.webp"
+                alt="" width="250">
+            <img src="https://qqcdnpictest.mxplay.com/pic/dba628bcf4e61975d7ed406847375783/en/2x3/208x312/dfa2a68cd1fc8c23568300d7dc5e4002_1280x1920.webp"
+                alt="" width="250">
+            <img src="https://qqcdnpictest.mxplay.com/pic/2b1585e87da1e8deac286a0efe9ec9aa/en/2x3/208x312/2bce71b39a23cb676e24321d91298f2b_1280x1920.webp"
+                alt="" width="250">
+            <img src="https://qqcdnpictest.mxplay.com/pic/2b1585e87da1e8deac286a0efe9ec9aa/en/2x3/208x312/2bce71b39a23cb676e24321d91298f2b_1280x1920.webp"
+                alt="" width="250">
+            <img src="https://qqcdnpictest.mxplay.com/pic/f7675bb53b13bc07c1780a66c1103d54/en/2x3/208x312/test_pic1575975047775.webp"
+                alt="" width="250">
+            <img src="https://qqcdnpictest.mxplay.com/pic/18c95c8dd13cd0c43aec40e619282107/en/2x3/208x312/test_pic1633686180700.webp"
+                alt="" width="250">
+            <img src="https://qqcdnpictest.mxplay.com/pic/dba628bcf4e61975d7ed406847375783/en/2x3/208x312/dfa2a68cd1fc8c23568300d7dc5e4002_1280x1920.webp"
+                alt="" width="250">
+
+            <img src="https://qqcdnpictest.mxplay.com/pic/f7675bb53b13bc07c1780a66c1103d54/en/2x3/208x312/test_pic1575975047775.webp"
+                alt="" width="250">
+            <img src="https://qqcdnpictest.mxplay.com/pic/18c95c8dd13cd0c43aec40e619282107/en/2x3/208x312/test_pic1633686180700.webp"
+                alt="" width="250">
+            <img src="https://qqcdnpictest.mxplay.com/pic/dba628bcf4e61975d7ed406847375783/en/2x3/208x312/dfa2a68cd1fc8c23568300d7dc5e4002_1280x1920.webp"
+                alt="" width="250">
+        </div>
+
+    </div>
+
+
+</body>
+
+</html>
+
+
+
+
+
