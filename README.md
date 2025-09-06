@@ -20,8 +20,8 @@ This project is designed to practice web layout, media embedding, and styling.
 ---
 
 ## 🎥 Demo
-Check out the live demo video:  
-`demo.mp4`
+Watch the demo video here:  
+[▶️ Click to Watch Demo](demo.mp4)
 
 ---
 
@@ -31,3 +31,4 @@ Check out the live demo video:
 
 ---
 
+## 📂 Project Structure
