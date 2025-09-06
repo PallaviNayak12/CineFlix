@@ -1,19 +1,33 @@
-# CineFlix 🎬
+# 🎬 Movies Website
 
-A visually engaging static movie website built with HTML and CSS. This project showcases a simple yet effective layout for movie lovers to explore trending trailers, latest releases, and build a watch list.
+A simple **HTML & CSS** project that showcases a movie-themed landing page with **latest movies, trending trailers, and a watchlist section**.  
+This project is designed to practice web layout, media embedding, and styling.
+
+---
 
 ## 🚀 Features
+- 🖼️ **Hero section** with a banner image  
+- 🎞️ **Latest Movies** marquee with scrolling posters  
+- 📺 **Trending Movies** with embedded YouTube trailers  
+- ✅ **Watch List** section with static movie posters  
+- 🎨 Clean and dark-themed UI for a cinematic feel  
 
-- 🎥 Hero section with a featured movie banner
-- 🆕 Scrolling **Latest Movies** poster gallery
-- 🔥 Trending section with embedded YouTube trailers
-- 📝 Watch List section for additional movie suggestions
-- 📱 Responsive design using only HTML and CSS
+---
 
-## 💡 Technologies Used
+## 📸 Screenshot
+![App Screenshot](output.png)
 
-- HTML5
-- CSS3
+---
 
+## 🎥 Demo
+Check out the live demo video:  
+`demo.mp4`
 
+---
+
+## 🛠️ Tech Stack
+- **HTML5** – Structure of the website  
+- **CSS3** – Styling and layout  
+
+---
 
