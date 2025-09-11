@@ -31,4 +31,3 @@ Watch the demo video here:
 
 ---
 
-## 📂 Project Structure
