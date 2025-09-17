@@ -10,7 +10,7 @@ This project is designed to practice web layout, media embedding, and styling.
 - 🎞️ **Latest Movies** marquee with scrolling posters  
 - 📺 **Trending Movies** with embedded YouTube trailers  
 - ✅ **Watch List** section with static movie posters  
-- 🎨 Clean and dark-themed UI for a cinematic feel  
+- 🎨 Clean and dark-themed UI for a cinematic feel
 
 ---
 
