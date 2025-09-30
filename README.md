@@ -26,7 +26,7 @@ Watch the demo video here:
 ---
 
 ## 🛠️ Tech Stack
-- **HTML5** – Structure of the website  
+- **HTML5** – Structure of the website 
 - **CSS3** – Styling and layout  
 
 ---
