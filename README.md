@@ -4,7 +4,6 @@ A simple **HTML & CSS** project that showcases a movie-themed landing page with 
 This project is designed to practice web layout, media embedding, and styling.
 
 ---
-
 ## 🚀 Features
 - 🖼️ **Hero section** with a banner image  
 - 🎞️ **Latest Movies** marquee with scrolling posters  
