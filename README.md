@@ -11,7 +11,7 @@ This project is designed to practice web layout, media embedding, and styling.
 - ✅ **Watch List** section with static movie posters  
 - 🎨 Clean and dark-themed UI for a cinematic feel
 
----
+--- 
 
 ## 📸 Screenshot
 ![App Screenshot](output.png)
