@@ -1,7 +1,7 @@
 # 🎬 Movies Website
 
 A simple **HTML & CSS** project that showcases a movie-themed landing page with **latest movies, trending trailers, and a watchlist section**.
-This project is designed to practice web layout, media embedding, and styling.
+This project is designed to practice web layout, media embedding, and styling. 
 
 --- 
 ## 🚀 Features
