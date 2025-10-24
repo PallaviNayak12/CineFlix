@@ -14,7 +14,7 @@ This project is designed to practice web layout, media embedding, and styling.
 --- 
 
 ## 📸 Screenshot
-![App Screenshot](output.png)
+![App Screenshot](output.png) 
 
 ---
 
