@@ -5,7 +5,7 @@ This project is designed to practice web layout, media embedding, and styling.
  
 ---  
 ## 🚀 Features
-- 🖼️ **Hero section** with a banner image 
+- 🖼️ **Hero section** with a banner image       
 - 🎞️ **Latest Movies** marquee with scrolling posters 
 - 📺 **Trending Movies** with embedded YouTube trailers   
 - ✅ **Watch List** section with static movie posters     
