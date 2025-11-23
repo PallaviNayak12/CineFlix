@@ -10,7 +10,7 @@ This project is designed to practice web layout, media embedding, and styling.
 - 📺 **Trending Movies** with embedded YouTube trailers   
 - ✅ **Watch List** section with static movie posters        
 - 🎨 Clean and dark-themed UI for a cinematic feel
- 
+  
 ---                          
 
 ## 📸 Screenshot
